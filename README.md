@@ -1,12 +1,10 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prabhupavitra/Financial-Modeling/blob/master/Loan%20Amortization_Pandas.ipynb)
-
 # Financial Modeling
 
 ### What is financial modeling?
 
 Financial modeling is the task of building an abstract representation (a model) of a real world financial situation.
 
-## Model 1 : Amortization Schedule
+## Amortization Schedule
 
 An amortization schedule is a complete table of periodic loan payments, showing the amount of principal and the amount of interest that comprise each payment until the loan is paid off at the end of its term. 
 
